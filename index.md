@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Carrera de Carlos Sainz
 
-You can use the [editor on GitHub](https://github.com/carlos-sainz/carrera-de-sainz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Carlos Sainz comenzó su carrera a la edad de 7 años como piloto de Kart.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En su larga carrera, Carlos ha acumulado varias victorias y títulos de campeonatos como la Fórmula BWM y la Fórmula Renault Europea. Estos excelentes resultados le valieron la oportunidad de ingresar a la escuela RedBull donde pasó por otras categorías como la GP3. Al año siguiente, consiguió ser campeón de la Fórmula Renault 3.5 europea, convirtiéndose en el piloto con más victorias de la categoría en una sola temporada.
 
-### Markdown
+En 2014 realizó sus primeras pruebas en Fórmula 1 en el programa de jóvenes pilotos, conduciendo un coche RedBull y en el mismo año fue contratado para conducir la Scuderia Toro Rosso a partir de 2015.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Fórmula BMW
 
-```markdown
-Syntax highlighted code block
+El 28 de noviembre de 2014, fue anunciado como piloto de Toro Rosso para la temporada 2015 de Fórmula 1. 
+“Estoy muy feliz de unirme a Toro Rosso. Desde que me uní al programa juvenil de Red Bull, este ha sido mi objetivo", dijo Sainz Jr. en el comunicado del equipo. 
 
-# Header 1
-## Header 2
-### Header 3
+Durante los entrenamientos libres del Gran Premio de Rusia, Sainz perdió el control de su coche en la curva 13, se estrelló contra el lateral del muro y se arrastró a gran velocidad hasta chocar violentamente contra la barrera de protección en la curva 14. Se disparó de inmediato y tuvo dificultades para Sacar al piloto de la cabina. Después de casi media hora de poca información y mucha aprensión, el piloto español apareció levantando el pulgar mientras lo subían a una ambulancia y lo trasladaban en helicóptero a un hospital cercano al circuito para hacerle más pruebas.
 
-- Bulleted
-- List
+## Fórmula Renault 3.5 series & GP3 series
 
-1. Numbered
-2. List
+Sainz firmó con MW Arden en el 2013 para una temporada en la GP3, sin embargo no corrió con mucha suerte y tras solo dos podios, terminó en la décima posición del campeonato. En 2013 volvió a disputar el Gran Premio de Macao acabando en la misma posición que el año anterior (7.º).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlos-sainz/carrera-de-sainz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A la par de la GP3, Sainz participó en eventos selectos de la Formula Renault 3.5 Series con Zeta Corse. Dichas pruebas fueron indicadoras para que DAMS lo fichara para la temporada 2014. Todos sus podios fueron victorias esta temporada (7) y estos fueron suficientes para coronarse campeón al finalizar el año en Jerez, con 39 puntos de ventaja sobre Pierre Gasly.
